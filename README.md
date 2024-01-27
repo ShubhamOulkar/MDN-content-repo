@@ -13,7 +13,7 @@ The strength of MDN Web Docs lies in its vast community of active readers and co
 Since 2005, approximately 45,000 contributors have created the documentation we know and love.
 Together, contributors have created over 45,000 documents that make up an up-to-date, comprehensive, and free resource for web developers worldwide.
 
-In addition to English-language articles, over 35.0 volunteers lead translation and localization efforts for Chinese, French, Japanese, Korean, Portuguese, Russian, and Spanish.
+In addition to English-language articles, over 35 volunteers lead translation and localization efforts for Chinese, French, Japanese, Korean, Portuguese, Russian, and Spanish.
 
 ## Build the site
 
